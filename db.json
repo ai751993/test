@@ -1,0 +1,7 @@
+{
+  "vendors": [{"name": "Diego Perez", "id": 1},
+              {"name": "Jose Gomez", "id": 2},
+              {"name": "Pablo Diez", "id": 3},
+              {"name": "Amelia Díaz", "id": 4},
+              {"name": "Javier Dominguez", "id": 5}]
+}
